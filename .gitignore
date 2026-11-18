@@ -1,0 +1,16 @@
+node_modules
+.next
+.next-build
+out
+.env
+.env.local
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+apps/bridge/dist
+.vercel
+
+# Data and assets folder
+PRANA AI DATA & ASSETS/
+"PRANA AI DATA & ASSETS"
+
